@@ -1,0 +1,157 @@
+body{
+    font-family: Comic Sans MS, cursive;
+    background-color: #f0f8ff;
+   
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+header{
+    background-color:#ff6b6b ;
+    color: #2c3e50;
+    padding: 25px;
+}
+#pcolor{
+    color: white;
+    margin:0px 0px 10px;
+    list-style: 1.5;
+}
+nav{
+    background-color: #4ecdc4;
+    padding: 15px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+main{
+    background-color: white;
+    padding: 30px;
+    width: 60%;
+    margin-top: -20px;
+    height: fit-content;
+    box-shadow: -3px 0px 8px rgba(0, 0, 0, 0.1);
+ 
+}
+#welcome{
+    color: #ff6b6b;
+    margin-bottom:20px;
+    font-size: 28px;
+}
+.info{
+    background-color: #ffe66d;
+    padding: 20px;
+    margin: 15px 0px;
+    height: 120px;
+    
+}
+.info h3{
+    color: #e67e22;
+    margin-bottom: 10px;
+}
+.important{
+    color: #ff6b6b;
+    font-weight: bold;
+}
+p{
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+.subject{
+    background-color:#a8e6cf;
+    margin: 20px 0px;
+    padding: 20px;
+}
+#ali{
+    color:#2c3e50;;
+}
+.list li{
+list-style: none;
+margin: 5px 0px;
+background-color: #ecf0f1;
+padding: 8px;
+line-height: 1.5;
+}
+.arti{
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin: 20px 0px;
+    margin-bottom: 10px;
+}
+strong{
+    font-weight: bolder;
+}
+.imptext{
+    color: #ff6b6b;
+    font-weight: bold;
+}
+.small-box{
+width: 150px;
+height: 80px;
+background-color: #fd79a8;
+margin: 10px 0px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: white;
+font-weight: bold;
+}
+.box-two{
+ width: 80%;
+height: 50px;
+background-color: #00b894;
+margin: 10px 0px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: white;
+}
+.content-one{
+    display: flex;
+margin: 20px;
+gap: 20px;
+}
+aside{
+    background-color: #ffeaa7;
+padding: 25px;
+width: 35%;
+height: fit-content;
+margin-top: -20px ;
+}
+.table-one th{
+    background-color: #74b9ff;
+    color: white;
+    padding: 10px;
+    
+}
+.table-one{
+    width: 100%;
+    margin: 15px 0px;
+}
+.table-one td{
+    padding: 8px;
+}
+.quiz-s{
+    margin: 15px 0px;
+}
+.quiz-h{
+    background-color: #6c5ce7;
+    color: white;
+padding: 12px;
+cursor: pointer;
+font-weight: bold;
+}
+.uk{
+    list-style: none;
+    margin-bottom: 10px;
+    
+}
+h4{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
